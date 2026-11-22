@@ -1,6 +1,6 @@
 # Jono JSON Editor
 
-A community level editor for **Jono** that runs in your browser. Draw a level, add hazards and switches, then download
+A community level editor made for the game **Jono** by PartTimeMonkey. It runs in your browser. Draw a level, add hazards and switches, then download
 the JSON and load it in the game. Everything runs on your own computer: no account, nothing is uploaded.
 
 This is a community tool, not the official in-game editor.
