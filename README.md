@@ -3,7 +3,7 @@
 A community level editor made for the game **Jono** by PartTimeMonkey. It runs in your browser. Draw a level, add hazards and switches, then download
 the JSON and load it in the game. Everything runs on your own computer: no account, nothing is uploaded.
 
-This is a community tool, not the official in-game editor.
+This is a community tool, not to be confused with the official in-game editor. The editor is allowed by the developers at PartTimeMonkey, and features may be taken out upon their request.
 
 ## Use it
 - **Online:** open the GitHub Pages link for this repository (see the About box on the right).
@@ -12,7 +12,7 @@ This is a community tool, not the official in-game editor.
 Press **?** in the editor for shortcuts.
 
 ## What's new in v0.5
-- **New items:** ladders, jump orbs, wind and lasers.
+- **Added missing items:** ladders, jump orbs, wind and lasers.
 - **TANDEM items:** checkpoints, hold plates and plates for two. Also mega bouncers, trap floors and trap blocks.
 - **TANDEM mode:** choose JONO, MEAT GRINDER or TANDEM under *Level settings*.
 - **Mode limits:** a table showing how many of each item the level uses, next to what JONO and TANDEM allow. Items
